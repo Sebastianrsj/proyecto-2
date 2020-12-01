@@ -200,6 +200,7 @@ def delete2():
     global contador
     global contador2
     ruta = "./datos/datos.json"
+    valor = 0
     var.set(0)
     #   Se implementa un valor condicional a la función delete, si es igual a 1, 
     #   pasará a la siguiente pregunta, si no se selecciona ninguna respuesta, no dejará continuar.
